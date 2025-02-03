@@ -14,10 +14,7 @@
 🛠️ &nbsp;I have experience with preventive and corrective maintenance of computer systems, network configuration, and IT support.\
 💬 &nbsp;Feel free to reach out to me for collaborations, tech discussions, or just to connect!\
 ✉️ &nbsp;You can shoot me an email at **parradomb04@gmail.com**! I'll try to respond as soon as I can.\
-🔗 &nbsp;Connect with me on <a href="https://www.linkedin.com/in/manuel-parrado-barrero-789b27240/">
-                              <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-                            </a>
-
+🔗 &nbsp;Connect with me on <a href="https://www.linkedin.com/in/manuel-parrado-barrero-789b27240/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/></a>
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
@@ -70,13 +67,14 @@
   </a>
 </p>
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/manuel-parrado-barrero-789b27240/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
-  </a>
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>  
   <a href="mailto:parradomb04@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
