@@ -14,7 +14,9 @@
 🛠️ &nbsp;I have experience with preventive and corrective maintenance of computer systems, network configuration, and IT support.\
 💬 &nbsp;Feel free to reach out to me for collaborations, tech discussions, or just to connect!\
 ✉️ &nbsp;You can shoot me an email at **parradomb04@gmail.com**! I'll try to respond as soon as I can.\
-🔗 &nbsp;Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/manuel-parrado-barrero-789b27240/)
+🔗 &nbsp;Connect with me on <a href="https://www.linkedin.com/in/manuel-parrado-barrero-789b27240/">
+                              <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+                            </a>
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
@@ -53,7 +55,8 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white) &nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white) &nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white) &nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)  
+![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white) 
+![VirtualBox](https://img.shields.io/badge/-VirtualBox-183A61?style=flat&logo=virtualbox&logoColor=white)  
 
 
 ### ⚙️ &nbsp;GitHub Analytics  
